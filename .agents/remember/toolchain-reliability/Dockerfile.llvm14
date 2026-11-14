@@ -1,0 +1,16 @@
+# Small distribution-matched alternative; exact installed versions saved by probe.sh.
+FROM ubuntu:22.04
+ARG LLVM_VERSION=1:14.0.0-1ubuntu1.1
+ENV DEBIAN_FRONTEND=noninteractive
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    clang-14=${LLVM_VERSION} lldb-14=${LLVM_VERSION} python3-lldb-14=${LLVM_VERSION} \
+    python3 ca-certificates && rm -rf /var/lib/apt/lists/*
+# Jammy's versioned extension erroneously resolves to /usr/lib/lib/liblldb.so.
+# Point it directly at the matching packaged library, for either architecture.
+RUN find /usr/lib/llvm-14/lib/python3.10/dist-packages/lldb -name '_lldb*.so' \
+    -exec ln -sf ../../../liblldb.so.1 {} \;
+ENV PYTHONPATH=/usr/lib/llvm-14/lib/python3.10/dist-packages
+# Standalone Python cannot infer the LLVM bin directory as the CLI does.
+ENV LLDB_DEBUGSERVER_PATH=/usr/lib/llvm-14/bin/lldb-server
+WORKDIR /work
+CMD ["/bin/bash"]

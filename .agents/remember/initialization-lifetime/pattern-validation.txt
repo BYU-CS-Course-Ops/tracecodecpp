@@ -1,0 +1,13 @@
+PASS: 35 stops; partial init, reuse, post-destruction reads, throwing-array cleanup
+10 0xfffff3c6b168 aaaaaaaa (uncertain debugger bytes)
+11 0xfffff3c6b164 00000000 (uncertain debugger bytes)
+12 0xfffff3c6b158 aaaaaaaaaaaaaaaa (uncertain debugger bytes)
+13 0xfffff3c6b158 07000000aaaaaaaa (uncertain debugger bytes)
+14 0xfffff3c6b158 0700000009000000 (uncertain debugger bytes)
+15 0xfffff3c6b150 0500000000000000 (uncertain debugger bytes)
+20 0xfffff3c6b140 aaaaaaaaaaaaaaaa (uncertain debugger bytes)
+21 0xfffff3c6b140 3c0000003d000000 (uncertain debugger bytes)
+22 0xfffff3c6b140 ffffffff3d000000 (uncertain debugger bytes)
+23 0xfffff3c6b140 4600000047000000 (uncertain debugger bytes)
+24 0xfffff3c6b140 7b00000000000000 (uncertain debugger bytes)
+25 0xfffff3c6b140 7b00000000000000 (uncertain debugger bytes)

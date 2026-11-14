@@ -1,0 +1,4 @@
+.agents/remember/initialization-lifetime/fixture.cpp:44:19: warning: missing field 'b' initializer [-Wmissing-field-initializers]
+   44 |   Pair aggregate{5}; // omitted b is initialized to zero, unlike partial above
+      |                   ^
+1 warning generated.

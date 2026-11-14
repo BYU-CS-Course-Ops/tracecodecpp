@@ -1,0 +1,33 @@
+(lldb) script import sys; sys.argv=['record.py', '/work/.agents/scratch/initialization-lifetime/default', '/work/.agents/scratch/initialization-lifetime/default.json']
+(lldb) script exec(compile(open('.agents/remember/initialization-lifetime/record.py').read(), 'record.py', 'exec'))
+RECORDED 35 /work/.agents/scratch/initialization-lifetime/default.json
+PASS: 35 stops; partial init, reuse, post-destruction reads, throwing-array cleanup
+10 0xffffe3e79f08 848490ae (uncertain debugger bytes)
+11 0xffffe3e79f04 00000000 (uncertain debugger bytes)
+12 0xffffe3e79efc 0000000020a0e7e3 (uncertain debugger bytes)
+13 0xffffe3e79efc 0700000020a0e7e3 (uncertain debugger bytes)
+14 0xffffe3e79efc 0700000009000000 (uncertain debugger bytes)
+15 0xffffe3e79ef0 0500000000000000 (uncertain debugger bytes)
+20 0xffffe3e79ee0 0020010000000000 (uncertain debugger bytes)
+21 0xffffe3e79ee0 3c0000003d000000 (uncertain debugger bytes)
+22 0xffffe3e79ee0 ffffffff3d000000 (uncertain debugger bytes)
+23 0xffffe3e79ee0 4600000047000000 (uncertain debugger bytes)
+24 0xffffe3e79ee0 7b00000000000000 (uncertain debugger bytes)
+25 0xffffe3e79ee0 7b00000000000000 (uncertain debugger bytes)
+(lldb) script import sys; sys.argv=['record.py', '/work/.agents/scratch/initialization-lifetime/pattern', '/work/.agents/scratch/initialization-lifetime/pattern.json']
+(lldb) script exec(compile(open('.agents/remember/initialization-lifetime/record.py').read(), 'record.py', 'exec'))
+RECORDED 35 /work/.agents/scratch/initialization-lifetime/pattern.json
+PASS: 35 stops; partial init, reuse, post-destruction reads, throwing-array cleanup
+10 0xfffff3c6b168 aaaaaaaa (uncertain debugger bytes)
+11 0xfffff3c6b164 00000000 (uncertain debugger bytes)
+12 0xfffff3c6b158 aaaaaaaaaaaaaaaa (uncertain debugger bytes)
+13 0xfffff3c6b158 07000000aaaaaaaa (uncertain debugger bytes)
+14 0xfffff3c6b158 0700000009000000 (uncertain debugger bytes)
+15 0xfffff3c6b150 0500000000000000 (uncertain debugger bytes)
+20 0xfffff3c6b140 aaaaaaaaaaaaaaaa (uncertain debugger bytes)
+21 0xfffff3c6b140 3c0000003d000000 (uncertain debugger bytes)
+22 0xfffff3c6b140 ffffffff3d000000 (uncertain debugger bytes)
+23 0xfffff3c6b140 4600000047000000 (uncertain debugger bytes)
+24 0xfffff3c6b140 7b00000000000000 (uncertain debugger bytes)
+25 0xfffff3c6b140 7b00000000000000 (uncertain debugger bytes)
+SKIP: UBSan could not link; see ubsan-build.log (image lacks runtime)

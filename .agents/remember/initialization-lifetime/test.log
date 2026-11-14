@@ -1,0 +1,16 @@
+.agents/remember/initialization-lifetime/fixture.cpp:44:25: warning: missing field 'b' initializer [-Wmissing-field-initializers]
+   44 |     Partial aggregate{11}; // omitted member is zero-initialized, unlike Partial partial
+      |                         ^
+1 warning generated.
+(lldb) script import sys; sys.argv=['record.py', '/work/.agents/scratch/initialization-lifetime/default', '/work/.agents/scratch/initialization-lifetime/default.json']
+(lldb) script exec(compile(open('.agents/remember/initialization-lifetime/record.py').read(), 'record.py', 'exec'))
+.agents/remember/initialization-lifetime/fixture.cpp:44:25: warning: missing field 'b' initializer [-Wmissing-field-initializers]
+   44 |     Partial aggregate{11}; // omitted member is zero-initialized, unlike Partial partial
+      |                         ^
+1 warning generated.
+(lldb) script import sys; sys.argv=['record.py', '/work/.agents/scratch/initialization-lifetime/pattern', '/work/.agents/scratch/initialization-lifetime/pattern.json']
+(lldb) script exec(compile(open('.agents/remember/initialization-lifetime/record.py').read(), 'record.py', 'exec'))
+PASS: aarch64-unknown-linux-gnu 27 events; lifetime/initialization is not inferred from bytes
+PASS: aarch64-unknown-linux-gnu 27 events; lifetime/initialization is not inferred from bytes
+Uninitialized local bytes: default= ffffffff pattern= aaaaaaaa (both source states unknown to debugger)
+SKIP ASan/UBSan: sanitizer runtime unavailable; see sanitizer-build.log

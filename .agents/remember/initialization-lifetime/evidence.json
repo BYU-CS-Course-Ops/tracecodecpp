@@ -1,0 +1,2294 @@
+{
+  "default": {
+    "exit_status": 0,
+    "events": [
+      {
+        "tag": 10,
+        "address": "0xffffe3e79f08",
+        "size": 4,
+        "raw_bytes_uncertain": "848490ae",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 11,
+        "address": "0xffffe3e79f04",
+        "size": 4,
+        "raw_bytes_uncertain": "00000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 12,
+        "address": "0xffffe3e79efc",
+        "size": 8,
+        "raw_bytes_uncertain": "0000000020a0e7e3",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 13,
+        "address": "0xffffe3e79efc",
+        "size": 8,
+        "raw_bytes_uncertain": "0700000020a0e7e3",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 14,
+        "address": "0xffffe3e79efc",
+        "size": 8,
+        "raw_bytes_uncertain": "0700000009000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 15,
+        "address": "0xffffe3e79ef0",
+        "size": 8,
+        "raw_bytes_uncertain": "0500000000000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 30,
+        "address": "0xffffe3e79ee8",
+        "size": 8,
+        "raw_bytes_uncertain": "28000000ffff0000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 31,
+        "address": "0xffffe3e79ee8",
+        "size": 8,
+        "raw_bytes_uncertain": "2800000029000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 34,
+        "address": "0xffffe3e79ee8",
+        "size": 8,
+        "raw_bytes_uncertain": "2800000029000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 32,
+        "address": "0xffffe3e79ee8",
+        "size": 8,
+        "raw_bytes_uncertain": "2800000029000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 33,
+        "address": "0xffffe3e79ee8",
+        "size": 8,
+        "raw_bytes_uncertain": "ffffffff29000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 35,
+        "address": "0x0",
+        "size": 0,
+        "raw_bytes_uncertain": "",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 20,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "0020010000000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 30,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "3c00000000000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 31,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "3c0000003d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 21,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "3c0000003d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 32,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "3c0000003d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 33,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "ffffffff3d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 22,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "ffffffff3d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 30,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "460000003d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 31,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "4600000047000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 23,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "4600000047000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 32,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "4600000047000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 33,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "ffffffff47000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 24,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "7b00000000000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 25,
+        "address": "0xffffe3e79ee0",
+        "size": 8,
+        "raw_bytes_uncertain": "7b00000000000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 50,
+        "address": "0xaaaab997d2b8",
+        "size": 4,
+        "raw_bytes_uncertain": "01000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 52,
+        "address": "0xaaaab997d2b8",
+        "size": 4,
+        "raw_bytes_uncertain": "01000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 50,
+        "address": "0xaaaab997d2bc",
+        "size": 4,
+        "raw_bytes_uncertain": "02000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 52,
+        "address": "0xaaaab997d2bc",
+        "size": 4,
+        "raw_bytes_uncertain": "02000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 50,
+        "address": "0xaaaab997d2c0",
+        "size": 4,
+        "raw_bytes_uncertain": "03000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 51,
+        "address": "0xaaaab997d2c0",
+        "size": 4,
+        "raw_bytes_uncertain": "03000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 53,
+        "address": "0xaaaab997d2bc",
+        "size": 4,
+        "raw_bytes_uncertain": "02000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 53,
+        "address": "0xaaaab997d2b8",
+        "size": 4,
+        "raw_bytes_uncertain": "01000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 54,
+        "address": "0x0",
+        "size": 0,
+        "raw_bytes_uncertain": "",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      }
+    ],
+    "selected_frames": [
+      {
+        "tag": 10,
+        "frames": [
+          {
+            "function": "main",
+            "line": 37,
+            "variables": [
+              {
+                "name": "uninitialized",
+                "type": "int",
+                "address": "0xffffe3e79f08",
+                "raw_debugger_value_uncertain": "-1366260604",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "initialized",
+                "type": "int",
+                "address": "0xffffe3e79f04",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "partial",
+                "type": "Pair",
+                "address": "0xffffe3e79efc",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xffffe3e79efc",
+                    "raw_debugger_value_uncertain": "0",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xffffe3e79f00",
+                    "raw_debugger_value_uncertain": "-471359456",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "aggregate",
+                "type": "Pair",
+                "address": "0xffffe3e79ef0",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xffffe3e79ef0",
+                    "raw_debugger_value_uncertain": "-1364631552",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xffffe3e79ef4",
+                    "raw_debugger_value_uncertain": "65535",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "storage",
+                "type": "unsigned char[8]",
+                "address": "0xffffe3e79ee0",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "[0]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee0",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[1]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee1",
+                    "raw_debugger_value_uncertain": "' '",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[2]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee2",
+                    "raw_debugger_value_uncertain": "'\\x01'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[3]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee3",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[4]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee4",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[5]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee5",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[6]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee6",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[7]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee7",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "first",
+                "type": "Item *",
+                "address": "0xffffe3e79ed8",
+                "raw_debugger_value_uncertain": "0x0000000000000088",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "second",
+                "type": "Item *",
+                "address": "0xffffe3e79ed0",
+                "raw_debugger_value_uncertain": "0x0000ffffaea90000",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "different",
+                "type": "Other *",
+                "address": "0xffffe3e79ec8",
+                "raw_debugger_value_uncertain": "0x0000ffffae97668c",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": null,
+                "type": "int",
+                "address": "0xffffe3e79eb0",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": 13,
+        "frames": [
+          {
+            "function": "main",
+            "line": 41,
+            "variables": [
+              {
+                "name": "uninitialized",
+                "type": "int",
+                "address": "0xffffe3e79f08",
+                "raw_debugger_value_uncertain": "-1366260604",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "initialized",
+                "type": "int",
+                "address": "0xffffe3e79f04",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "partial",
+                "type": "Pair",
+                "address": "0xffffe3e79efc",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xffffe3e79efc",
+                    "raw_debugger_value_uncertain": "7",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xffffe3e79f00",
+                    "raw_debugger_value_uncertain": "-471359456",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "aggregate",
+                "type": "Pair",
+                "address": "0xffffe3e79ef0",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xffffe3e79ef0",
+                    "raw_debugger_value_uncertain": "-1364631552",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xffffe3e79ef4",
+                    "raw_debugger_value_uncertain": "65535",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "storage",
+                "type": "unsigned char[8]",
+                "address": "0xffffe3e79ee0",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "[0]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee0",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[1]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee1",
+                    "raw_debugger_value_uncertain": "' '",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[2]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee2",
+                    "raw_debugger_value_uncertain": "'\\x01'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[3]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee3",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[4]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee4",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[5]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee5",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[6]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee6",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[7]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee7",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "first",
+                "type": "Item *",
+                "address": "0xffffe3e79ed8",
+                "raw_debugger_value_uncertain": "0x0000000000000088",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "second",
+                "type": "Item *",
+                "address": "0xffffe3e79ed0",
+                "raw_debugger_value_uncertain": "0x0000ffffaea90000",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "different",
+                "type": "Other *",
+                "address": "0xffffe3e79ec8",
+                "raw_debugger_value_uncertain": "0x0000ffffae97668c",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": null,
+                "type": "int",
+                "address": "0xffffe3e79eb0",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": 24,
+        "frames": [
+          {
+            "function": "main",
+            "line": 59,
+            "variables": [
+              {
+                "name": "uninitialized",
+                "type": "int",
+                "address": "0xffffe3e79f08",
+                "raw_debugger_value_uncertain": "-1366260604",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "initialized",
+                "type": "int",
+                "address": "0xffffe3e79f04",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "partial",
+                "type": "Pair",
+                "address": "0xffffe3e79efc",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xffffe3e79efc",
+                    "raw_debugger_value_uncertain": "7",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xffffe3e79f00",
+                    "raw_debugger_value_uncertain": "9",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "aggregate",
+                "type": "Pair",
+                "address": "0xffffe3e79ef0",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xffffe3e79ef0",
+                    "raw_debugger_value_uncertain": "5",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xffffe3e79ef4",
+                    "raw_debugger_value_uncertain": "0",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "storage",
+                "type": "unsigned char[8]",
+                "address": "0xffffe3e79ee0",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "[0]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee0",
+                    "raw_debugger_value_uncertain": "'{'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[1]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee1",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[2]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee2",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[3]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee3",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[4]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee4",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[5]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee5",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[6]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee6",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[7]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee7",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "first",
+                "type": "Item *",
+                "address": "0xffffe3e79ed8",
+                "raw_debugger_value_uncertain": "0x0000ffffe3e79ee0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "second",
+                "type": "Item *",
+                "address": "0xffffe3e79ed0",
+                "raw_debugger_value_uncertain": "0x0000ffffe3e79ee0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "different",
+                "type": "Other *",
+                "address": "0xffffe3e79ec8",
+                "raw_debugger_value_uncertain": "0x0000ffffe3e79ee0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": null,
+                "type": "int",
+                "address": "0xffffe3e79eb0",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": 25,
+        "frames": [
+          {
+            "function": "main",
+            "line": 61,
+            "variables": [
+              {
+                "name": "uninitialized",
+                "type": "int",
+                "address": "0xffffe3e79f08",
+                "raw_debugger_value_uncertain": "-1366260604",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "initialized",
+                "type": "int",
+                "address": "0xffffe3e79f04",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "partial",
+                "type": "Pair",
+                "address": "0xffffe3e79efc",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xffffe3e79efc",
+                    "raw_debugger_value_uncertain": "7",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xffffe3e79f00",
+                    "raw_debugger_value_uncertain": "9",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "aggregate",
+                "type": "Pair",
+                "address": "0xffffe3e79ef0",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xffffe3e79ef0",
+                    "raw_debugger_value_uncertain": "5",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xffffe3e79ef4",
+                    "raw_debugger_value_uncertain": "0",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "storage",
+                "type": "unsigned char[8]",
+                "address": "0xffffe3e79ee0",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "[0]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee0",
+                    "raw_debugger_value_uncertain": "'{'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[1]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee1",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[2]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee2",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[3]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee3",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[4]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee4",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[5]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee5",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[6]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee6",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[7]",
+                    "type": "unsigned char",
+                    "address": "0xffffe3e79ee7",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "first",
+                "type": "Item *",
+                "address": "0xffffe3e79ed8",
+                "raw_debugger_value_uncertain": "0x0000ffffe3e79ee0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "second",
+                "type": "Item *",
+                "address": "0xffffe3e79ed0",
+                "raw_debugger_value_uncertain": "0x0000ffffe3e79ee0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "different",
+                "type": "Other *",
+                "address": "0xffffe3e79ec8",
+                "raw_debugger_value_uncertain": "0x0000ffffe3e79ee0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": null,
+                "type": "int",
+                "address": "0xffffe3e79eb0",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pattern": {
+    "exit_status": 0,
+    "events": [
+      {
+        "tag": 10,
+        "address": "0xfffff3c6b168",
+        "size": 4,
+        "raw_bytes_uncertain": "aaaaaaaa",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 11,
+        "address": "0xfffff3c6b164",
+        "size": 4,
+        "raw_bytes_uncertain": "00000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 12,
+        "address": "0xfffff3c6b158",
+        "size": 8,
+        "raw_bytes_uncertain": "aaaaaaaaaaaaaaaa",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 13,
+        "address": "0xfffff3c6b158",
+        "size": 8,
+        "raw_bytes_uncertain": "07000000aaaaaaaa",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 14,
+        "address": "0xfffff3c6b158",
+        "size": 8,
+        "raw_bytes_uncertain": "0700000009000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 15,
+        "address": "0xfffff3c6b150",
+        "size": 8,
+        "raw_bytes_uncertain": "0500000000000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 30,
+        "address": "0xfffff3c6b148",
+        "size": 8,
+        "raw_bytes_uncertain": "28000000aaaaaaaa",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 31,
+        "address": "0xfffff3c6b148",
+        "size": 8,
+        "raw_bytes_uncertain": "2800000029000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 34,
+        "address": "0xfffff3c6b148",
+        "size": 8,
+        "raw_bytes_uncertain": "2800000029000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 32,
+        "address": "0xfffff3c6b148",
+        "size": 8,
+        "raw_bytes_uncertain": "2800000029000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 33,
+        "address": "0xfffff3c6b148",
+        "size": 8,
+        "raw_bytes_uncertain": "ffffffff29000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 35,
+        "address": "0x0",
+        "size": 0,
+        "raw_bytes_uncertain": "",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 20,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "aaaaaaaaaaaaaaaa",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 30,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "3c000000aaaaaaaa",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 31,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "3c0000003d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 21,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "3c0000003d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 32,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "3c0000003d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 33,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "ffffffff3d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 22,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "ffffffff3d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 30,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "460000003d000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 31,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "4600000047000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 23,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "4600000047000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 32,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "4600000047000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 33,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "ffffffff47000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 24,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "7b00000000000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 25,
+        "address": "0xfffff3c6b140",
+        "size": 8,
+        "raw_bytes_uncertain": "7b00000000000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 50,
+        "address": "0xaaaad7afa2b8",
+        "size": 4,
+        "raw_bytes_uncertain": "01000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 52,
+        "address": "0xaaaad7afa2b8",
+        "size": 4,
+        "raw_bytes_uncertain": "01000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 50,
+        "address": "0xaaaad7afa2bc",
+        "size": 4,
+        "raw_bytes_uncertain": "02000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 52,
+        "address": "0xaaaad7afa2bc",
+        "size": 4,
+        "raw_bytes_uncertain": "02000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 50,
+        "address": "0xaaaad7afa2c0",
+        "size": 4,
+        "raw_bytes_uncertain": "03000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 51,
+        "address": "0xaaaad7afa2c0",
+        "size": 4,
+        "raw_bytes_uncertain": "03000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 53,
+        "address": "0xaaaad7afa2bc",
+        "size": 4,
+        "raw_bytes_uncertain": "02000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 53,
+        "address": "0xaaaad7afa2b8",
+        "size": 4,
+        "raw_bytes_uncertain": "01000000",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      },
+      {
+        "tag": 54,
+        "address": "0x0",
+        "size": 0,
+        "raw_bytes_uncertain": "",
+        "read_success": true,
+        "initialization": "unknown",
+        "lifetime": "unknown"
+      }
+    ],
+    "selected_frames": [
+      {
+        "tag": 10,
+        "frames": [
+          {
+            "function": "main",
+            "line": 37,
+            "variables": [
+              {
+                "name": "uninitialized",
+                "type": "int",
+                "address": "0xfffff3c6b168",
+                "raw_debugger_value_uncertain": "-1431655766",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "initialized",
+                "type": "int",
+                "address": "0xfffff3c6b164",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "partial",
+                "type": "Pair",
+                "address": "0xfffff3c6b158",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xfffff3c6b158",
+                    "raw_debugger_value_uncertain": "-1431655766",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xfffff3c6b15c",
+                    "raw_debugger_value_uncertain": "-1431655766",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "aggregate",
+                "type": "Pair",
+                "address": "0xfffff3c6b150",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xfffff3c6b150",
+                    "raw_debugger_value_uncertain": "-1472831488",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xfffff3c6b154",
+                    "raw_debugger_value_uncertain": "65535",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "storage",
+                "type": "unsigned char[8]",
+                "address": "0xfffff3c6b140",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "[0]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b140",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[1]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b141",
+                    "raw_debugger_value_uncertain": "' '",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[2]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b142",
+                    "raw_debugger_value_uncertain": "'\\x01'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[3]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b143",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[4]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b144",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[5]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b145",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[6]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b146",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[7]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b147",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "first",
+                "type": "Item *",
+                "address": "0xfffff3c6b138",
+                "raw_debugger_value_uncertain": "0x0000000000000088",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "second",
+                "type": "Item *",
+                "address": "0xfffff3c6b130",
+                "raw_debugger_value_uncertain": "0x0000ffffa8360000",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "different",
+                "type": "Other *",
+                "address": "0xfffff3c6b128",
+                "raw_debugger_value_uncertain": "0x0000ffffa824668c",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": null,
+                "type": "int",
+                "address": "0xfffff3c6b110",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": 13,
+        "frames": [
+          {
+            "function": "main",
+            "line": 41,
+            "variables": [
+              {
+                "name": "uninitialized",
+                "type": "int",
+                "address": "0xfffff3c6b168",
+                "raw_debugger_value_uncertain": "-1431655766",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "initialized",
+                "type": "int",
+                "address": "0xfffff3c6b164",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "partial",
+                "type": "Pair",
+                "address": "0xfffff3c6b158",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xfffff3c6b158",
+                    "raw_debugger_value_uncertain": "7",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xfffff3c6b15c",
+                    "raw_debugger_value_uncertain": "-1431655766",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "aggregate",
+                "type": "Pair",
+                "address": "0xfffff3c6b150",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xfffff3c6b150",
+                    "raw_debugger_value_uncertain": "-1472831488",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xfffff3c6b154",
+                    "raw_debugger_value_uncertain": "65535",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "storage",
+                "type": "unsigned char[8]",
+                "address": "0xfffff3c6b140",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "[0]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b140",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[1]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b141",
+                    "raw_debugger_value_uncertain": "' '",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[2]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b142",
+                    "raw_debugger_value_uncertain": "'\\x01'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[3]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b143",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[4]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b144",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[5]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b145",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[6]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b146",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[7]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b147",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "first",
+                "type": "Item *",
+                "address": "0xfffff3c6b138",
+                "raw_debugger_value_uncertain": "0x0000000000000088",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "second",
+                "type": "Item *",
+                "address": "0xfffff3c6b130",
+                "raw_debugger_value_uncertain": "0x0000ffffa8360000",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "different",
+                "type": "Other *",
+                "address": "0xfffff3c6b128",
+                "raw_debugger_value_uncertain": "0x0000ffffa824668c",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": null,
+                "type": "int",
+                "address": "0xfffff3c6b110",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": 24,
+        "frames": [
+          {
+            "function": "main",
+            "line": 59,
+            "variables": [
+              {
+                "name": "uninitialized",
+                "type": "int",
+                "address": "0xfffff3c6b168",
+                "raw_debugger_value_uncertain": "-1431655766",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "initialized",
+                "type": "int",
+                "address": "0xfffff3c6b164",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "partial",
+                "type": "Pair",
+                "address": "0xfffff3c6b158",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xfffff3c6b158",
+                    "raw_debugger_value_uncertain": "7",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xfffff3c6b15c",
+                    "raw_debugger_value_uncertain": "9",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "aggregate",
+                "type": "Pair",
+                "address": "0xfffff3c6b150",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xfffff3c6b150",
+                    "raw_debugger_value_uncertain": "5",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xfffff3c6b154",
+                    "raw_debugger_value_uncertain": "0",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "storage",
+                "type": "unsigned char[8]",
+                "address": "0xfffff3c6b140",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "[0]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b140",
+                    "raw_debugger_value_uncertain": "'{'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[1]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b141",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[2]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b142",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[3]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b143",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[4]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b144",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[5]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b145",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[6]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b146",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[7]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b147",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "first",
+                "type": "Item *",
+                "address": "0xfffff3c6b138",
+                "raw_debugger_value_uncertain": "0x0000fffff3c6b140",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "second",
+                "type": "Item *",
+                "address": "0xfffff3c6b130",
+                "raw_debugger_value_uncertain": "0x0000fffff3c6b140",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "different",
+                "type": "Other *",
+                "address": "0xfffff3c6b128",
+                "raw_debugger_value_uncertain": "0x0000fffff3c6b140",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": null,
+                "type": "int",
+                "address": "0xfffff3c6b110",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": 25,
+        "frames": [
+          {
+            "function": "main",
+            "line": 61,
+            "variables": [
+              {
+                "name": "uninitialized",
+                "type": "int",
+                "address": "0xfffff3c6b168",
+                "raw_debugger_value_uncertain": "-1431655766",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "initialized",
+                "type": "int",
+                "address": "0xfffff3c6b164",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "partial",
+                "type": "Pair",
+                "address": "0xfffff3c6b158",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xfffff3c6b158",
+                    "raw_debugger_value_uncertain": "7",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xfffff3c6b15c",
+                    "raw_debugger_value_uncertain": "9",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "aggregate",
+                "type": "Pair",
+                "address": "0xfffff3c6b150",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "a",
+                    "type": "int",
+                    "address": "0xfffff3c6b150",
+                    "raw_debugger_value_uncertain": "5",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "b",
+                    "type": "int",
+                    "address": "0xfffff3c6b154",
+                    "raw_debugger_value_uncertain": "0",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "storage",
+                "type": "unsigned char[8]",
+                "address": "0xfffff3c6b140",
+                "raw_debugger_value_uncertain": null,
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown",
+                "children": [
+                  {
+                    "name": "[0]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b140",
+                    "raw_debugger_value_uncertain": "'{'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[1]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b141",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[2]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b142",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[3]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b143",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[4]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b144",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[5]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b145",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[6]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b146",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  },
+                  {
+                    "name": "[7]",
+                    "type": "unsigned char",
+                    "address": "0xfffff3c6b147",
+                    "raw_debugger_value_uncertain": "'\\0'",
+                    "error": "success",
+                    "initialization": "unknown",
+                    "lifetime": "unknown"
+                  }
+                ]
+              },
+              {
+                "name": "first",
+                "type": "Item *",
+                "address": "0xfffff3c6b138",
+                "raw_debugger_value_uncertain": "0x0000fffff3c6b140",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "second",
+                "type": "Item *",
+                "address": "0xfffff3c6b130",
+                "raw_debugger_value_uncertain": "0x0000fffff3c6b140",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": "different",
+                "type": "Other *",
+                "address": "0xfffff3c6b128",
+                "raw_debugger_value_uncertain": "0x0000fffff3c6b140",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              },
+              {
+                "name": null,
+                "type": "int",
+                "address": "0xfffff3c6b110",
+                "raw_debugger_value_uncertain": "0",
+                "error": "success",
+                "initialization": "unknown",
+                "lifetime": "unknown"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

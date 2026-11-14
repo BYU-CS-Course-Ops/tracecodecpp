@@ -1,0 +1,5 @@
+CXXNewExpr placement= True array= False range= {'begin': {'offset': 1840, 'col': 17, 'tokLen': 3}, 'end': {'offset': 1861, 'col': 38, 'tokLen': 1}}
+CXXNewExpr placement= True array= False range= {'begin': {'offset': 2011, 'col': 18, 'tokLen': 3}, 'end': {'offset': 2032, 'col': 39, 'tokLen': 1}}
+CXXNewExpr placement= True array= False range= {'begin': {'offset': 2149, 'col': 22, 'tokLen': 3}, 'end': {'offset': 2172, 'col': 45, 'tokLen': 1}}
+CXXNewExpr placement= False array= True range= {'begin': {'offset': 2330, 'col': 23, 'tokLen': 3}, 'end': {'offset': 2344, 'col': 37, 'tokLen': 1}}
+Full TU counts (includes headers): {'CXXDestructorDecl': 6, 'CXXCtorInitializer': 5, 'CXXConstructExpr': 8, 'CXXThrowExpr': 1, 'CXXNewExpr': 4, 'CXXTryStmt': 1, 'CXXDeleteExpr': 1, 'CXXCatchStmt': 1}
